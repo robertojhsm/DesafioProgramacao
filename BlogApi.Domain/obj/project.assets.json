@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HOME\\Desktop\\API_BLOG\\BlogApi.Domain\\BlogApi.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\HOME\\Desktop\\API_BLOG_\\BlogApi.Domain\\BlogApi.Domain.csproj",
       "projectName": "BlogApi.Domain",
-      "projectPath": "C:\\Users\\HOME\\Desktop\\API_BLOG\\BlogApi.Domain\\BlogApi.Domain.csproj",
+      "projectPath": "C:\\Users\\HOME\\Desktop\\API_BLOG_\\BlogApi.Domain\\BlogApi.Domain.csproj",
       "packagesPath": "C:\\Users\\HOME\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HOME\\Desktop\\API_BLOG\\BlogApi.Domain\\obj\\",
+      "outputPath": "C:\\Users\\HOME\\Desktop\\API_BLOG_\\BlogApi.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

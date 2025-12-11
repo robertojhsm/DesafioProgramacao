@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HOME\\Desktop\\API_BLOG\\BlogApi.Infrastructure\\BlogApi.Infrastructure.csproj": {}
+    "C:\\Users\\HOME\\Desktop\\API_BLOG_\\BlogApi.Infrastructure\\BlogApi.Infrastructure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HOME\\Desktop\\API_BLOG\\BlogApi.Application\\BlogApi.Application.csproj": {
+    "C:\\Users\\HOME\\Desktop\\API_BLOG_\\BlogApi.Application\\BlogApi.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HOME\\Desktop\\API_BLOG\\BlogApi.Application\\BlogApi.Application.csproj",
+        "projectUniqueName": "C:\\Users\\HOME\\Desktop\\API_BLOG_\\BlogApi.Application\\BlogApi.Application.csproj",
         "projectName": "BlogApi.Application",
-        "projectPath": "C:\\Users\\HOME\\Desktop\\API_BLOG\\BlogApi.Application\\BlogApi.Application.csproj",
+        "projectPath": "C:\\Users\\HOME\\Desktop\\API_BLOG_\\BlogApi.Application\\BlogApi.Application.csproj",
         "packagesPath": "C:\\Users\\HOME\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HOME\\Desktop\\API_BLOG\\BlogApi.Application\\obj\\",
+        "outputPath": "C:\\Users\\HOME\\Desktop\\API_BLOG_\\BlogApi.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,8 +33,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\HOME\\Desktop\\API_BLOG\\BlogApi.Domain\\BlogApi.Domain.csproj": {
-                "projectPath": "C:\\Users\\HOME\\Desktop\\API_BLOG\\BlogApi.Domain\\BlogApi.Domain.csproj"
+              "C:\\Users\\HOME\\Desktop\\API_BLOG_\\BlogApi.Domain\\BlogApi.Domain.csproj": {
+                "projectPath": "C:\\Users\\HOME\\Desktop\\API_BLOG_\\BlogApi.Domain\\BlogApi.Domain.csproj"
               }
             }
           }
@@ -80,14 +80,14 @@
         }
       }
     },
-    "C:\\Users\\HOME\\Desktop\\API_BLOG\\BlogApi.Domain\\BlogApi.Domain.csproj": {
+    "C:\\Users\\HOME\\Desktop\\API_BLOG_\\BlogApi.Domain\\BlogApi.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HOME\\Desktop\\API_BLOG\\BlogApi.Domain\\BlogApi.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\HOME\\Desktop\\API_BLOG_\\BlogApi.Domain\\BlogApi.Domain.csproj",
         "projectName": "BlogApi.Domain",
-        "projectPath": "C:\\Users\\HOME\\Desktop\\API_BLOG\\BlogApi.Domain\\BlogApi.Domain.csproj",
+        "projectPath": "C:\\Users\\HOME\\Desktop\\API_BLOG_\\BlogApi.Domain\\BlogApi.Domain.csproj",
         "packagesPath": "C:\\Users\\HOME\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HOME\\Desktop\\API_BLOG\\BlogApi.Domain\\obj\\",
+        "outputPath": "C:\\Users\\HOME\\Desktop\\API_BLOG_\\BlogApi.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -146,14 +146,14 @@
         }
       }
     },
-    "C:\\Users\\HOME\\Desktop\\API_BLOG\\BlogApi.Infrastructure\\BlogApi.Infrastructure.csproj": {
+    "C:\\Users\\HOME\\Desktop\\API_BLOG_\\BlogApi.Infrastructure\\BlogApi.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HOME\\Desktop\\API_BLOG\\BlogApi.Infrastructure\\BlogApi.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\HOME\\Desktop\\API_BLOG_\\BlogApi.Infrastructure\\BlogApi.Infrastructure.csproj",
         "projectName": "BlogApi.Infrastructure",
-        "projectPath": "C:\\Users\\HOME\\Desktop\\API_BLOG\\BlogApi.Infrastructure\\BlogApi.Infrastructure.csproj",
+        "projectPath": "C:\\Users\\HOME\\Desktop\\API_BLOG_\\BlogApi.Infrastructure\\BlogApi.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\HOME\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HOME\\Desktop\\API_BLOG\\BlogApi.Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\HOME\\Desktop\\API_BLOG_\\BlogApi.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -175,11 +175,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\HOME\\Desktop\\API_BLOG\\BlogApi.Application\\BlogApi.Application.csproj": {
-                "projectPath": "C:\\Users\\HOME\\Desktop\\API_BLOG\\BlogApi.Application\\BlogApi.Application.csproj"
+              "C:\\Users\\HOME\\Desktop\\API_BLOG_\\BlogApi.Application\\BlogApi.Application.csproj": {
+                "projectPath": "C:\\Users\\HOME\\Desktop\\API_BLOG_\\BlogApi.Application\\BlogApi.Application.csproj"
               },
-              "C:\\Users\\HOME\\Desktop\\API_BLOG\\BlogApi.Domain\\BlogApi.Domain.csproj": {
-                "projectPath": "C:\\Users\\HOME\\Desktop\\API_BLOG\\BlogApi.Domain\\BlogApi.Domain.csproj"
+              "C:\\Users\\HOME\\Desktop\\API_BLOG_\\BlogApi.Domain\\BlogApi.Domain.csproj": {
+                "projectPath": "C:\\Users\\HOME\\Desktop\\API_BLOG_\\BlogApi.Domain\\BlogApi.Domain.csproj"
               }
             }
           }
