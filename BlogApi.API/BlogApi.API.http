@@ -1,0 +1,57 @@
+@BlogApi.API_HostAddress = http://localhost:5110
+@ContentType = application/json
+
+### ============================================
+### POSTS - Endpoints para gerenciar posts
+### ============================================
+
+### 1. Obter todos os posts (resumo)
+GET {{BlogApi.API_HostAddress}}/api/posts
+Accept: {{ContentType}}
+
+###
+
+### 2. Criar um novo post
+POST {{BlogApi.API_HostAddress}}/api/posts
+Content-Type: {{ContentType}}
+
+{
+  "titulo": "Meu Primeiro Post",
+  "conteudo": "Este é o conteúdo do meu primeiro post no blog. Aqui posso escrever tudo que quiser sobre o assunto."
+}
+
+###
+
+### 3. Obter post por ID (com comentários)
+# Substitua {id} pelo ID do post criado
+GET {{BlogApi.API_HostAddress}}/api/posts/{id}
+Accept: {{ContentType}}
+
+###
+
+### ============================================
+### COMENTÁRIOS - Endpoints para gerenciar comentários
+### ============================================
+
+### 4. Adicionar comentário a um post
+# Substitua {postId} pelo ID do post
+POST {{BlogApi.API_HostAddress}}/api/posts/{postId}/comments
+Content-Type: {{ContentType}}
+
+{
+  "conteudo": "Excelente post! Muito informativo.",
+  "autor": "João Silva"
+}
+
+###
+
+### ============================================
+### SWAGGER - Documentação interativa
+### ============================================
+
+### 5. Acessar Swagger UI
+# Abra no navegador: http://localhost:5110
+GET {{BlogApi.API_HostAddress}}/
+Accept: text/html
+
+###

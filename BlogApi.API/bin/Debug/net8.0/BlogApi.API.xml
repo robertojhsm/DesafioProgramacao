@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>BlogApi.API</name>
+    </assembly>
+    <members>
+        <member name="M:BlogApi.API.Controllers.CommentsController.AdicionarComentario(System.Guid,BlogApi.Application.DTOs.CriarComentarioDto)">
+            <summary>
+            Adiciona um novo comentário a um post específico
+            </summary>
+        </member>
+        <member name="M:BlogApi.API.Controllers.PostsController.ObterTodos">
+            <summary>
+            Obtém todos os posts com título e quantidade de comentários
+            </summary>
+        </member>
+        <member name="M:BlogApi.API.Controllers.PostsController.Criar(BlogApi.Application.DTOs.CriarPostDto)">
+            <summary>
+            Cria um novo post no blog
+            </summary>
+        </member>
+        <member name="M:BlogApi.API.Controllers.PostsController.ObterPorId(System.Guid)">
+            <summary>
+            Obtém um post específico por ID com título, conteúdo e lista de comentários
+            </summary>
+        </member>
+    </members>
+</doc>
